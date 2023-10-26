@@ -1,75 +1,154 @@
-<header>
+![](https://github.com/AvinashAnand02/AvinashAnand02/blob/main/header_.png)
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
+<h1 align="center" >Hi, I'm <a href="https://avinashanand.me/" target="_blank"> Avinash Anand </a></h1>
 
-# Introduction to GitHub
+<div align="center">
 
-_Get started using GitHub in less than an hour._
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/avinash-anand02)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://avinashanand.me)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Avinash52870643)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/your.avinash_/) <br>
+[![Subscribe on LinkedIn](https://img.shields.io/badge/Subscribe%20on%20LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7067812125007577088) <br> ![Profile views](https://komarev.com/ghpvc/?username=AvinashAnand02&style=plastic)
+[![GitHub followers](https://img.shields.io/github/followers/AvinashAnand02.svg?style=social&label=Follow)](https://github.com/AvinashAnand02?tab=followers)
 
-</header>
+</div>
 
-<!--
-  <<< Author notes: Step 1 >>>
-  Choose 3-5 steps for your course.
-  The first step is always the hardest, so pick something easy!
-  Link to docs.github.com for further explanations.
-  Encourage users to open new tabs for steps!
--->
 
-## Step 1: Create a branch
+### Glad to see you here!
 
-_Welcome to "Introduction to GitHub"! :wave:_
+I'm pursuing B-Tech 🎓 from <b> Lovely Professional University </b> 🏫. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
 
-**What is GitHub?**: GitHub is a collaboration platform that uses _[Git](https://docs.github.com/get-started/quickstart/github-glossary#git)_ for versioning. GitHub is a popular place to share and contribute to [open-source](https://docs.github.com/get-started/quickstart/github-glossary#open-source) software.
-<br>:tv: [Video: What is GitHub?](https://www.youtube.com/watch?v=pBy1zgt0XPc)
+<img align="right" height="250" width="375" alt="" src="https://github.com/AvinashAnand02/AvinashAnand02/blob/main/workbench.svg" />
 
-**What is a repository?**: A _[repository](https://docs.github.com/get-started/quickstart/github-glossary#repository)_ is a project containing files and folders. A repository tracks versions of files and folders. For more information, see "[About repositories](https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories)" from GitHub Docs.
+### Talking about Personal Stuffs:
 
-**What is a branch?**: A _[branch](https://docs.github.com/en/get-started/quickstart/github-glossary#branch)_ is a parallel version of your repository. By default, your repository has one branch named `main` and it is considered to be the definitive branch. Creating additional branches allows you to copy the `main` branch of your repository and safely make any changes without disrupting the main project. Many people use branches to work on specific features without affecting any other parts of the project.
+- 🚀 &nbsp; I’m currently learning Full Stack Development.
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/AvinashAnand02).
+- 💬 &nbsp; Ask me about anything [here](https://www.linkedin.com/in/avinash-anand02/)! I am happy to help.
+- 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
+- 📫 &nbsp; How to reach me: avinashmgr53@gmail.com.
+- 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/18kvXgwK2btjG-2Sc4EFbSlbzqms3TN_G/view?usp=sharing).
 
-Branches allow you to separate your work from the `main` branch. In other words, everyone's work is safe while you contribute. For more information, see "[About branches](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches)".
+### My Absolute Favorites:
 
-**What is a profile README?**: A _[profile README](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)_ is essentially an "About me" section on your GitHub profile where you can share information about yourself with the community on GitHub.com. GitHub shows your profile README at the top of your profile page. For more information, see "[Managing your profile README](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)".
+- 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
+- 📰 &nbsp; Reading & writing tech blogs whenever possible.
+- 🍕 &nbsp; Hackathons, meetups & tech events.
 
-![profile-readme-example](/images/profile-readme-example.png)
+### Languages and Tools:
 
-### :keyboard: Activity: Your first branch
+![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
+![JS](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+<img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white" />
+<img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />
+<img alt="C" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+<img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+<img alt="ReactJs" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+<img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+<img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B" />
+<img alt="NodeJs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+<img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+   
+<h3 align="left">Platforms :</h3>
 
-1. Open a new browser tab and navigate to your newly made repository. Then, work on the steps in your second tab while you read the instructions in this tab.
-2. Navigate to the **< > Code** tab in the header menu of your repository.
+<p align="left">
 
-   ![code-tab](/images/code-tab.png)
+  <a href="https://leetcode.com/avinashanand02/" target="_blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" /></a>
 
-3. Click on the **main** branch drop-down.
+</p>
 
-   ![main-branch-dropdown](/images/main-branch-dropdown.png)
+### Projects and Dev Stuffs:
 
-4. In the field, name your branch `my-first-branch`. In this case, the name must be `my-first-branch` to trigger the course workflow.
-5. Click **Create branch: my-first-branch** to create your branch.
+	
+  <summary><b>⚡ Github Stats</b></summary>
 
-   ![create-branch-button](/images/create-branch-button.png)
+  <br />
+  <a> 
+    <a href="https://github.com/AvinashAnand02"><img alt="Avinash's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=AvinashAnand02&show_icons=true&count_private=true&theme=default&border_color=black&bg_color=white&title_color=black&icon_color=black" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/AvinashAnand02"><img alt="Avinash's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=AvinashAnand02&langs_count=8&layout=compact&theme=default&border_color=black&bg_color=white&title_color=black&icon_color=black" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
+<p>
+  <a href="https://github.com/AvinashAnand02">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AvinashAnand02&theme=default&border_color=black&bg_color=white&title_color=black&icon_color=black" alt="Avinash's GitHub Contribution"/>
+  </a>
+</p>
 
-   The branch will automatically switch to the one you have just created.
-   The **main** branch drop-down bar will reflect your new branch and display the new branch name.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AvinashAnand02" alt="Avinash" /></a> </p>
 
-6. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
 
-<footer>
+  <summary><b>☄️ Github Streaks</b></summary>
 
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
+  <br />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AvinashAnand02&hide_border=true" />
 
----
+<!--   <summary><b>🧑‍🚀 Projects</b></summary>
 
-Get help: [Post in our discussion board](https://github.com/orgs/community/discussions/categories/github-education) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
+  <br />
+  <table>
+    <thead align="center">
+      <tr border: none;>
+        <td><b>💻 Projects</b></td>
+        <td><b>🌟 Stars</b></td>
+        <td><b>🍴 Forks</b></td>
+        <td><b>🐛 Issues</b></td>
+        <td><b>🔔 Pull Requests</b></td>
+        <td><b>👨‍💻 Language</b></td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+	      <td><a href="https://github.com/AvinashAnand02/ChatBot"><b>🤖 ChatBot </b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/AvinashAnand02/ChatBot?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/AvinashAnand02/ChatBot?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/AvinashAnand02/ChatBot?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/AvinashAnand02/ChatBot?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/AvinashAnand02/ChatBot?style=flat-square"/></td>
+      </tr>
+      <tr>
+	      <td><a href="https://github.com/AvinashAnand02/Sudoku"><b>🎲 Sudoku</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/AvinashAnand02/Sudoku?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/AvinashAnand02/Sudoku?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/AvinashAnand02/Sudoku?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/AvinashAnand02/Sudoku?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/AvinashAnand02/Sudoku?label=javascript&style=flat-square"/></td>
+      </tr>
+      <tr>
+	      <td><a href="https://github.com/AvinashAnand02/Tic-Tac-Toe"><b>🀄 Tic-Tac-Toe</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/AvinashAnand02/Tic-Tac-Toe?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/AvinashAnand02/Tic-Tac-Toe?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/AvinashAnand02/Tic-Tac-Toe?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/AvinashAnand02/Tic-Tac-Toe?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/AvinashAnand02/Tic-Tac-Toe?style=flat-square"/></td> 
+      </tr>
+      <tr>
+	      <td><a href="https://github.com/AvinashAnand02/AvinashAnand02"><b>🤓 A-anand4866</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/AvinashAnand02/AvinashAnand02?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/AvinashAnand02/AvinashAnand02?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/AvinashAnand02/AvinashAnand02?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/AvinashAnand02/AvinashAnand02?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/badge/markdown-100%25-blue?style=flat-square"/></td> 
+      </tr>
+    </tbody>
+  </table>
+  <br /> -->
 
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+<summary><b>🧑‍🚀 Open Source Projects Achivement</b></summary>
 
-</footer>
+<div align="center">
+
+[![@avinash02's Holopin board](https://holopin.me/avinash02)](https://holopin.io/@avinash02)
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
+
+<div align="center">
+	
+<a href="https://www.buymeacoffee.com/avinash02" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 45px !important;width: 180px !important;" ></a>
+</div>
